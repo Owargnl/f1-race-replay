@@ -1,6 +1,6 @@
 # F1 Race Replay Roadmap
 
-Since launching this project, I've receieved a lot of feedback and feature requests from the community. I thought it would be helpful for everyone (including myself) to have a clear vision and roadmap for the future of this project, so if you are planning on contributing or using it, you know what to expect.
+Since launching this project, I've received a lot of feedback and feature requests from the community. I thought it would be helpful for everyone (including myself) to have a clear vision and roadmap for the future of this project, so if you are planning on contributing or using it, you know what to expect.
 
 ## Vision
 
@@ -12,11 +12,11 @@ I want this project to be the hands-down best way for data-loving F1 fans to exp
 - **Race Insight Charts:** Develop a suite of interactive charts and visualizations that provide deep insights into how the race or session progressed. Looking at things like track evolution, tyre strategies, pit stops, and driver performance over time, allowing users to understand more about the session.
 - **Practice Sessions:** Expand support to include practice sessions (FP1, FP2, FP3). I think this needs a combination of the telemetry analysis that is using for the Qualifying feature, mixed with the track position replay that is used for the race replay. I'm not sure how this is exactly going to work yet, but it's definitely needed. Maybe looking at the different runs that drivers do during practice, and comparing their lap times and tyre usage.
 
-## Performance Enchancements & User Experience Improvements
+## Performance Enhancements & User Experience Improvements
 
 This project is growing quite quickly, which is fantastic, but is also means that its really easy to overlook performance and user experience optimizations. Some of the key areas I want to focus on include:
 - **Reducing Lag during race replay:** Rendering some of the UI elements is starting to cause noticeable lag during race replays, especially on lower-end devices. I want to optimize the rendering process to ensure a smooth experience for all users. (I have already started on this, but there's more work to be done)
-- **De-cluttering the UI:** As more features are added, the UI is starting to feel a bit overwhelming. I think it would be great to add better toggle options or preset view types to help usesrs focus on the data that matters most to them. This would also allow us to add more insights on the race replay without being limited by just the available screen space.
+- **De-cluttering the UI:** As more features are added, the UI is starting to feel a bit overwhelming. I think it would be great to add better toggle options or preset view types to help users focus on the data that matters most to them. This would also allow us to add more insights on the race replay without being limited by just the available screen space.
  
 
 ## Your Contributions
